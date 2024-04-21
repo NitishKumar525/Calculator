@@ -27,7 +27,10 @@ The interface is intuitive and easy to use, resembling traditional calculators f
 Buttons are clearly labeled and responsive to user input.
 <br>
 <br>
-Features :<bold>
+  <hr>
+<h2>Features :<h2>
+  <br>
+  <br>
 Basic Arithmetic Operations:
   <br>
   <br>
