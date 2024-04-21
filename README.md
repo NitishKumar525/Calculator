@@ -35,20 +35,24 @@ Basic Arithmetic Operations:
 Addition, subtraction, multiplication, and division functionalities are implemented.
 Users can perform simple calculations with ease.
   <br>
+  <br>
 Decimal Support:
   <br>
-  <br>
+  
 Decimal point functionality allows users to perform calculations involving decimal numbers accurately.
   <br>
   <br>
 Clear and Reset:
-  <br>
+  
   <br>
 Clear button (C) allows users to clear the current input or reset the calculator to its initial state.
   <br>
+  <br>
 Error Handling:
   <br>
+  
 Proper error handling is implemented to provide feedback in case of invalid inputs or operations.
+  <br>
   <br>
 Keyboard Support:
   <br>
