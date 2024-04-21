@@ -29,7 +29,7 @@ Buttons are clearly labeled and responsive to user input.
 <br>
 
 <h2>Features :<h2>
-  <br>
+  
 Basic Arithmetic Operations:
   <br>
 Addition, subtraction, multiplication, and division functionalities are implemented.
@@ -43,7 +43,6 @@ Decimal point functionality allows users to perform calculations involving decim
   <br>
   <br>
 Clear and Reset:
-  
   <br>
 Clear button (C) allows users to clear the current input or reset the calculator to its initial state.
   <br>
