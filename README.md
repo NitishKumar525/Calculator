@@ -58,3 +58,7 @@ Users can also input numbers and perform calculations using their keyboard for e
 <h2>𝐔𝐬𝐚𝐠𝐞 :<h2>
 
 Clone or download the repository.
+<br>
+Open the index.html file in your preferred web browser.
+<br>
+Start performing calculations seamlessly!
