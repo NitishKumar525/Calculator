@@ -54,4 +54,7 @@ Proper error handling is implemented to provide feedback in case of invalid inpu
 Keyboard Support:
   <br>
 Users can also input numbers and perform calculations using their keyboard for enhanced usability.
+<br>
+<h2>𝐔𝐬𝐚𝐠𝐞 :<h2>
 
+Clone or download the repository.
