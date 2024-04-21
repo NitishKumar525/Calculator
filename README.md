@@ -37,7 +37,6 @@ Users can perform simple calculations with ease.
   <br>
 Decimal Support:
   <br>
-  
 Decimal point functionality allows users to perform calculations involving decimal numbers accurately.
   <br>
   <br>
@@ -62,3 +61,11 @@ Clone or download the repository.
 Open the index.html file in your preferred web browser.
 <br>
 Start performing calculations seamlessly!
+<br>
+<h2>𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 :</h2>
+
+Contributions, bug reports, and feature requests are welcome!
+<br>
+Fork the repository, make your changes, and submit a pull request.
+<br>
+Please adhere to the project's coding standards and guidelines.
