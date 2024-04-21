@@ -69,3 +69,7 @@ Contributions, bug reports, and feature requests are welcome!
 Fork the repository, make your changes, and submit a pull request.
 <br>
 Please adhere to the project's coding standards and guidelines.
+<br>
+<h2>𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 :<h2>
+
+Your feedback is valuable! If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
