@@ -1,5 +1,3 @@
-<h1>#A Functional Calculator.</h1>
-<br>
 <h2>𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 :- </h2>
 
 Welcome to the Functional Calculator repository! This project is a well-designed calculator built using HTML, CSS, and JavaScript. Below are some key points and features:
