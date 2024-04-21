@@ -8,13 +8,17 @@ Welcome to the Functional Calculator repository! This project is a well-designed
   <br>
   <br>
 HTML: Provides the structure and layout of the calculator.
+  <br>
 CSS: Styles the calculator, making it visually appealing and user-friendly.
+  <br>
 JavaScript: Implements the functionality, enabling calculations and user interactions.
+  <br>
   <br>
 ✅ Responsive Design:
   <br>
   <br>
 The calculator is designed to be responsive, ensuring optimal usability across various devices and screen sizes.
+  <br>
   <br>
 ✅ User Interface:
   <br>
